@@ -1,9 +1,9 @@
 {
-	"name": "SleepyBot",
-	"version": "1.0.7",
-	"description": "The Sleepiest Bot Ever! #SleepyBot",
+	"name": "InfGBA",
+	"version": "1.0.0",
+	"description": "Information on GBA games, etc.",
 	"author": "PrimalMew",
-	"main": "SleepyBot.js",
+	"main": "InfGBA.js",
 	"repository": {
 		"type": "git",
 		"url": ""
@@ -15,7 +15,7 @@
 		"node": ">=5.5.0"
 	},
 	"scripts": {
-		"start": "node SleepyBot.js --harmony"
+		"start": "node InfGBA.js --harmony"
 	},
 	"license": "MIT",
 	"dependencies": {

@@ -21,5 +21,5 @@ exports.cleverbot = function(bot, msg) {
 			} catch (error) { bot.sendMessage(msg, '⚠ There was an error', function(erro, wMessage) { bot.deleteMessage(wMessage, {'wait': 8000}); }); }
 		});
 		bot.stopTyping(msg.channel);
-	} else { bot.sendMessage(msg, 'Yes, ' + msg.sender + '?'); }
+	} else { bot.sendMessage(msg, 'Hey, ' + msg.sender + '!'); }
 };

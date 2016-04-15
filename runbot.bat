@@ -1,2 +1,2 @@
-node SleepyBot.js --harmony 
+node InfGBA.js --harmony 
 cmd /k
