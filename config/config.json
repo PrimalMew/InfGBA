@@ -1,6 +1,6 @@
 {
-	"email": "infgba@gmail.com",
-	"password": "Thunder1",
+	"email": "",
+	"password": "",
 	"command_prefix": "*",
 	"mod_command_prefix": "-",
 	"non_essential_event_listeners": true,
